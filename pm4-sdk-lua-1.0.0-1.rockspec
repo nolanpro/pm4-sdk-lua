@@ -1,7 +1,7 @@
 package = "pm4-sdk-lua"
 version = "1.0.0-1"
 source = {
-	url = "https://github.com/nolanpro/pm4-sdk-lua.git"
+	url = "git://github.com/nolanpro/pm4-sdk-lua"
 }
 
 description = {
